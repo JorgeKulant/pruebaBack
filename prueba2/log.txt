@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-03-31T10:05:56.434127200Z</date>
+  <millis>1648721156434</millis>
+  <nanos>127200</nanos>
+  <sequence>4</sequence>
+  <logger>com.example.main.ProductController</logger>
+  <level>WARNING</level>
+  <class>com.example.main.ProductController</class>
+  <method>getSimilar</method>
+  <thread>22</thread>
+  <message>404 Not Found: "{"message":"Product not found"}"	Error URL: http://localhost:3001/product/4/similarids</message>
+</record>
